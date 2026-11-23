@@ -1,53 +1,51 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Unggul Utan Sufandi 👋
 
-**[Your Title · Role · Focus Area]**
+**Lecturer & Researcher · Information Systems · Artificial Intelligence**
 
-I work on **[core focus, e.g., software systems, research, and tools]**. 
+I build and evaluate **intelligent information systems, educational technologies, and user-centered applications**.
 
-[2–3 short sentences summarizing your background, what drives your work, and what you are currently exploring.]
+As a faculty member at **Universitas Terbuka**, my work sits at the intersection of **Information Systems, Artificial Intelligence, and UI/UX Engineering** — focusing on how data-driven systems, machine learning, and usable interfaces improve open and distance learning.
 
-[Website](https://yourwebsite.com) · [LinkedIn](https://linkedin.com) · [Google Scholar / Blog](https://yourlink.com) · [Email](mailto:you@example.com)
-
----
-
-## 🚀 What I'm Building / Researching
-
-### [Project or Initiative Name]
-**[Your Role]**
-
-[Short paragraph explaining what the project does, who it helps, and the methods or technologies you use.]
+[Google Scholar](https://google.com) · [LinkedIn](#) · [SINTA / ORCID](#) · [Email](mailto:your.email@ecampus.ut.ac.id)
 
 ---
 
-## 🧭 What I Focus On
+## 🚀 What I's Researching & Building
 
-- **[Area 1]** — brief description of what you do here
-- **[Area 2]** — brief description of what you do here
-- **[Area 3]** — brief description of what you do here
+### AI & Information Systems for Open Learning
+**Academic Researcher & Systems Developer · Universitas Terbuka**
 
----
-
-## 🛠 Main Skills & Tools
-
-### [Category 1, e.g., Programming & Data]
-Python · R · SQL · Git
-
-### [Category 2, e.g., AI & Automation]
-LLMs · Agentic Workflows · APIs · Docker
+Designing, developing, and evaluating digital ecosystems for distance education, including learning material distribution systems (**SITTA**), **AI-powered automated essay scoring**, and student progress prediction.
 
 ---
 
-## ✍ Writing & Publications
+## 🧭 What I Work On
 
-- [Title of Article, Paper, or Guide 1](https://link-to-work.com)
-- [Title of Article, Paper, or Guide 2](https://link-to-work.com)
-- [Title of Article, Paper, or Guide 3](https://link-to-work.com)
+- **Information Systems** — requirement analysis, system architecture, and database-driven web & mobile apps
+- **Artificial Intelligence & Machine Learning** — semantic similarity for automated grading, neural networks, and sentiment analysis
+- **UI/UX & Usability Engineering** — systematic literature reviews and empirical usability evaluation using **USE Questionnaire** and **PSSUQ**
+- **Data Mining & Decision Support** — predictive modeling and analytics for educational and organizational data
+
+---
+
+## 🛠 Main Skills & Methods
+
+- **AI, ML & Data:** Artificial Neural Networks, NLP (Semantic & Keyword Similarity), Random Forest, Data Mining, Predictive Modeling
+- **Software & Systems:** System Analysis & Design, Web & Android Mobile Development, MySQL, Software Engineering Lifecycles
+- **UX Research & Evaluation:** Usability Testing (USE Questionnaire, PSSUQ), UI Prototyping, Systematic Literature Review (SLR)
+
+---
+
+## ✍ Selected Publications
+
+Key works span automated essay scoring (*Asian Association of Open Universities Journal*, 2023), web and mobile app usability evaluations using USE and PSSUQ (*Jurnal Pendidikan Teknologi dan Kejuruan*, *JST*, *JANAPATI*), systematic reviews (*Techno.Com*, 2022), and a book on data mining (*Widina Media Utama*, 2021). 
+
+→ **[View all publications on Google Scholar](https://google.com)**
 
 ---
 
 ## 🌍 Find Me Around the Internet
 
-[Website](https://yourwebsite.com) · [LinkedIn](https://linkedin.com) · [Email](mailto:you@example.com)
+[Google Scholar](https://google.com) · [LinkedIn](#) · [ResearchGate](#) · [Email](mailto:your.email@ecampus.ut.ac.id)
 
-*[A short closing motto or tagline.]*
-
+*Advancing accessible education through thoughtful systems, data, and human-centered design.*
