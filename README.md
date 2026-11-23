@@ -46,6 +46,6 @@ Key works span automated essay scoring (*Asian Association of Open Universities 
 
 ## 🌍 Find Me Around the Internet
 
-[Google Scholar](https://google.com) · [LinkedIn](#) · [ResearchGate](#) · [Email](mailto:your.email@ecampus.ut.ac.id)
+[Google Scholar](https://scholar.google.com/citations?user=uja-Z_YAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/unggul-utan-sufandi-62323677/) · [SINTA](https://sinta.kemdiktisaintek.go.id/authors/profile/6764348)
 
 *Advancing accessible education through thoughtful systems, data, and human-centered design.*
