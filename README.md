@@ -40,7 +40,7 @@ Designing, developing, and evaluating digital ecosystems for distance education,
 
 Key works span automated essay scoring (*Asian Association of Open Universities Journal*, 2023), web and mobile app usability evaluations using USE and PSSUQ (*Jurnal Pendidikan Teknologi dan Kejuruan*, *JST*, *JANAPATI*), systematic reviews (*Techno.Com*, 2022), and a book on data mining (*Widina Media Utama*, 2021). 
 
-→ **[View all publications on Google Scholar]((https://scholar.google.com/citations?user=uja-Z_YAAAAJ&hl=en))**
+→ **[View all publications on Google Scholar](https://scholar.google.com/citations?user=uja-Z_YAAAAJ&hl=en)**
 
 ---
 
