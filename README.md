@@ -6,7 +6,7 @@ I build and evaluate **intelligent information systems, educational technologies
 
 As a faculty member at **Universitas Terbuka**, my work sits at the intersection of **Information Systems, Artificial Intelligence, and UI/UX Engineering** — focusing on how data-driven systems, machine learning, and usable interfaces improve open and distance learning.
 
-[Google Scholar]https://scholar.google.com/citations?user=uja-Z_YAAAAJ&hl=en · [LinkedIn](https://www.linkedin.com/in/unggul-utan-sufandi-62323677/) · [SINTA](https://sinta.kemdiktisaintek.go.id/authors/profile/6764348)
+[Google Scholar](https://scholar.google.com/citations?user=uja-Z_YAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/unggul-utan-sufandi-62323677/) · [SINTA](https://sinta.kemdiktisaintek.go.id/authors/profile/6764348)
 
 ---
 
